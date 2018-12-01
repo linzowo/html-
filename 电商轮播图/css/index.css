@@ -1,0 +1,14 @@
+/* 轮播图结构css文件 */
+* {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+.father {
+    height: 500px;
+    width: 960px;
+    background-color: #bbcdc5;
+    margin: 200px auto;
+}
